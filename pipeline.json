@@ -14,13 +14,18 @@
     "source_video": null,
     "entry": "B"
   },
-  "status": "step1b_done",
+  "status": "step1.5_done",
   "steps": {
     "step1b": {
       "status": "done"
     },
     "step1.5": {
-      "status": "not_started"
+      "status": "done",
+      "started_at": "2026-04-08T04:37:59.042055+00:00",
+      "completed_at": "2026-04-08T04:38:11.226639+00:00",
+      "output": "production/storyboard/ep01_storyboard_verdict.json",
+      "character_verdict": "PASS",
+      "storyboard_verdict": "PASS"
     },
     "step3": {
       "status": "not_started"
