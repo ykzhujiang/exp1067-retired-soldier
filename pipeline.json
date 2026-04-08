@@ -14,7 +14,7 @@
     "source_video": null,
     "entry": "B"
   },
-  "status": "step4_done",
+  "status": "done",
   "steps": {
     "step1b": {
       "status": "done"
@@ -50,7 +50,11 @@
       "completed_at": "2026-04-08T05:56:14.084944+00:00"
     },
     "step6": {
-      "status": "not_started"
+      "status": "done",
+      "started_at": "2026-04-08T05:56:27.985722+00:00",
+      "completed_at": "2026-04-08T05:56:28.984329+00:00",
+      "output": "production/output/ep01/final.mp4",
+      "size_mb": 4.1
     }
   }
 }
